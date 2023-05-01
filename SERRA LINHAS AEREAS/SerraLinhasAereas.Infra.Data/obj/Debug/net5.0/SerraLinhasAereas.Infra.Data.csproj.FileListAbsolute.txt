@@ -1,0 +1,15 @@
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.deps.json
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.dll
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerraLinhasAereas.Infra.Data.pdb
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerraLinhasAereas.Domain.dll
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\bin\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.csproj.AssemblyReference.cache
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.AssemblyInfoInputs.cache
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.AssemblyInfo.cs
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.csproj.CoreCompileInputs.cache
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.csproj.CopyComplete
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.dll
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\refint\SerraLinhasAereas.Infra.Data.dll
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\SerraLinhasAereas.Infra.Data.pdb
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Infra.Data\obj\Debug\net5.0\ref\SerraLinhasAereas.Infra.Data.dll

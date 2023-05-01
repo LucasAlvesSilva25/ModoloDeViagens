@@ -1,0 +1,12 @@
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.deps.json
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.dll
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\bin\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.AssemblyReference.cache
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfoInputs.cache
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.AssemblyInfo.cs
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.csproj.CoreCompileInputs.cache
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.dll
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\obj\Debug\net5.0\refint\SerraLinhasAereas.Domain.dll
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\obj\Debug\net5.0\SerraLinhasAereas.Domain.pdb
+D:\TropTech - Integração Banco de dados\Projeto 9 – Serra Linhas Aéreas\SERRA LINHAS AEREAS\SerraLinhasAereas.Domain\obj\Debug\net5.0\ref\SerraLinhasAereas.Domain.dll
